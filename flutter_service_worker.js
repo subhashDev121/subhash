@@ -4,10 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "1ac57eb0214a8f5216f1da7dd479b33f",
-"index.html": "3acefb12fa1e91d8ed78a74451303337",
-"/": "3acefb12fa1e91d8ed78a74451303337",
-"main.dart.js": "bf2e1a3551fc2fd4033c040cdbbed4e5",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"index.html": "79a4793a5d9c3fea75a20913190d794b",
+"/": "79a4793a5d9c3fea75a20913190d794b",
+"main.dart.js": "52b3ba6d699291fd087d9b7ca2f5b90d",
+"favicon.png": "c8e577e5773c306ebd521e83a1a57846",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
@@ -27,11 +27,7 @@ const RESOURCES = {
 "assets/assets/icons/dribble.svg": "d392567c5678d42472d2c7b766268101",
 "assets/assets/icons/linkedin.svg": "5b2195ddf9e879047dd8a163c4194920",
 "assets/assets/icons/twitter.svg": "a4a0163fef48a4247a305528c07bc4fa",
-"assets/assets/icons/behance.svg": "35ad2d47e647d0b168e7707b2984c6b5",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/icons/behance.svg": "35ad2d47e647d0b168e7707b2984c6b5"
 };
 
 // The application shell files that are downloaded before a service worker can
